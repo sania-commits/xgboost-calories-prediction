@@ -5,6 +5,13 @@ An end-to-end Machine Learning application that predicts calories burned during 
 The project demonstrates a complete ML engineering workflow including data exploration, preprocessing, model training, evaluation, REST API development, frontend integration, containerization, automated testing, logging, and CI using GitHub Actions.
 
 ---
+## 🌐 Live Deployment
+
+- **Live Streamlit App:** https://calories-frontend.onrender.com
+- **FastAPI Backend:** https://calories-api-vq52.onrender.com
+- **Interactive API Documentation:** https://calories-api-vq52.onrender.com/docs
+
+> **Note:** This project uses Render's free instances. Services may spin down after inactivity, so the first request can take around a minute to respond.
 
 ## 🚀 Project Overview
 
